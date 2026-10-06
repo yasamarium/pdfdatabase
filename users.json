@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-10-05T14:16:21.873Z",
+  "updatedAt": "2026-10-06T08:16:43.402Z",
   "users": [
     {
       "id": "usr_muv14ei2",
@@ -9,6 +9,14 @@
       "passwordHash": "0bfcae82aa55b6d31e00e833fe1e77108e6fb8f0efd688fc8458baae7c0ec0ad",
       "createdAt": "2026-10-05T09:10:16.682Z",
       "lastLoginAt": "2026-10-05T14:16:21.873Z"
+    },
+    {
+      "id": "usr_muwends9",
+      "username": "demo",
+      "displayName": "Demo User",
+      "passwordHash": "29b60573c10f7741010b4f99892fb73ae0cff368cbc27f4e35d4b4c333d4a43a",
+      "createdAt": "2026-10-06T08:16:43.401Z",
+      "lastLoginAt": "2026-10-06T08:16:43.401Z"
     }
   ]
 }
